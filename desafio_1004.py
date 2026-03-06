@@ -21,3 +21,9 @@ B = int(input())
 PROD = A * B
 
 print(f"PROD = {PROD}")
+A = int(input())
+B = int(input())
+
+PROD = A * B
+
+print("PROD =", PROD)
